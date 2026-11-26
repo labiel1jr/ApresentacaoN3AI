@@ -1,0 +1,11 @@
+# Dados internos das planilhas mensais do N3 (clientes e tickets)
+desenvolvimento2026/
+# Áudio bruto e modelos de voz (pesados)
+audio/voz/
+audio/piper/
+audio/amostra_*/
+audio/*.wav
+audio/apresentacao_completa.mp3
+# Temporários do LibreOffice
+.~lock.*
+audio/amostra_*.mp3
